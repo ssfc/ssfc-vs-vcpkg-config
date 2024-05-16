@@ -1,0 +1,1 @@
+# ssfc-vs-vcpkg-config
